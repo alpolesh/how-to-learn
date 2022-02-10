@@ -5,5 +5,3 @@
 ***
 ### Nested BEM was used in the project. Github.com is used as a remote repository.  
 ### The code has been verified by https://validator.w3.org/. 
-***
-### In the future I plan to make the design responsive.
